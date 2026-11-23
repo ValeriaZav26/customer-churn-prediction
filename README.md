@@ -109,8 +109,8 @@ Since churn is a minority-class problem, models were compared using:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ValeriaZav26/Customer-Churn-Prediction-.git
-cd Customer-Churn-Prediction-
+git clone https://github.com/ValeriaZav26/customer-churn-prediction.git
+cd customer-churn-prediction
 ```
 
 ### 2. Create a virtual environment (recommended)
